@@ -11,7 +11,7 @@ Já atuei em varios projetos como desenvolvedor Full Stack, antes mesmo desse te
  
 ## Formação Acadêmica: :school:
 
-Formado em análise e desenvolvimento de sistemas (Uninove 2011)
+Formado em análise e desenvolvimento de sistemas (<a target=”_blank” href="https://www.uninove.br/cursos/graduacao/presencial/tecnologia-analise-desenvolvimento-de-sistemas">Uninove</a> 2011)
 
 MBA em arquitetura de sistemas(<a target=”_blank” href="https://www.fiap.com.br/live/mba/mba-em-arquitetura-e-desenvolvimento-na-plataforma-net/">FIAP</a> 2019)
 
