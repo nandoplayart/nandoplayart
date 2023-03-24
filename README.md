@@ -13,7 +13,7 @@ Já atuei em varios projetos como desenvolvedor Full Stack, antes mesmo desse te
 
 Formado em análise e desenvolvimento de sistemas (Uninove 2011)
 
-MBA em arquitetura de sistemas(FIAP 2019)
+MBA em arquitetura de sistemas(<a href="https://www.fiap.com.br/live/mba/mba-em-arquitetura-e-desenvolvimento-na-plataforma-net/">FIAP</a> 2019)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoplayart&show_icons=true&theme=dracula)
 
