@@ -1,6 +1,7 @@
 ## :sunglasses: Quem sou eu :grey_question:
 
 Olá, meu nome é Luiz Assis, desenvolvedor Full Stack a mais de 10 anos! :fire: :fire: :fire:
+
 Já atuei em varios projetos como desenvolvedor Full Stack, antes mesmo desse termo surgi, hoje minha stack de tecnologias são:
  - :star: React (Web)
  - :star: React Native (Mobile)
