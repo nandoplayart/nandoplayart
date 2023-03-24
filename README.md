@@ -24,6 +24,10 @@ Tenho como esporte musculação :muscle:
 
 E minha fé esta depositada em Cristo Jesus :pray: :church: :sheep:
 
+Gosto de desenhos em geral, principalmente animes e leitura de mangas, atualmente não tenho lido, mas amo os classicos como CDZ e DBZ,Naruto e por ai vai.
+
+Quando tenho muito tempo disponivel o que é quase nunca rs costumo desenhar :art:, voçê pode encontrar alguns desenhos em meu instragran. 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoplayart&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nandoplayart&theme=react&line_height=40&hide=css)]
