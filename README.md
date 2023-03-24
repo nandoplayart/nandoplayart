@@ -15,6 +15,15 @@ Formado em análise e desenvolvimento de sistemas (<a target=”_blank” href="
 
 MBA em arquitetura de sistemas(<a target=”_blank” href="https://www.fiap.com.br/live/mba/mba-em-arquitetura-e-desenvolvimento-na-plataforma-net/">FIAP</a> 2019)
 
+## Informações pessoais:
+Tenho :dog2: :dog2: :dog2: e um :cat2: que dão muito trabalho :running:
+
+Casado :couple:
+
+Tenho como esporte musculação :muscle:
+
+E minha fé esta depositada em Cristo Jesus :pray: :church: :sheep:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoplayart&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nandoplayart&theme=react&line_height=40&hide=css)]
