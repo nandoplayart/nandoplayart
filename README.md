@@ -49,6 +49,7 @@ Quando tenho muito tempo disponivel o que é quase nunca rs costumo desenhar :ar
   <a href = "mailto:nandoplaydesenvolvimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-fernando-lanna-andr%C3%A9-de-assis-62b26b44/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+<br /> 
  <img height="250" width="300" src="https://giffiles.alphacoders.com/185/185788.gif" />
   
   ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
