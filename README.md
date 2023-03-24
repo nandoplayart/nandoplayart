@@ -1,4 +1,7 @@
 ## Olá, eu sou o Luiz Assis, desenvolvedor full stack!
+ Nas minhas horas vagas gosto de desenhar e jogar video games.
+ Tenho como principios de vida e fé seguir a Jesus Cristo.
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandoplayart&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nandoplayart&theme=react&line_height=40&hide=css)]
